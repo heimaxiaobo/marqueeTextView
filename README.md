@@ -8,3 +8,4 @@
 | scroll_first_delay |  初次滚动时间间隔  |               默认值1000毫秒                |
 |    scroll_mode     | 滚动模式(默认一直) | mode_forever：一直滚动，mode_once：滚动一次 |
 
+其它属性和TextView属性一致

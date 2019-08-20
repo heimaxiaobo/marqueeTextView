@@ -1,4 +1,4 @@
-###### MarqueeTextView属性介绍
+#### MarqueeTextView属性介绍
 
 
 

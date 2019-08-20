@@ -14,20 +14,6 @@ import android.widget.TextView;
 import com.example.marqueeview.R;
 
 
-/******************************************************
- * Copyrights @ 2018，Qianjinzhe Technology Co., Ltd.
- *               前进者科技
- * All rights reserved.
- *
- * Filename：
- *              MarqueeTextView.java
- * Description：
- *              自定义跑马灯TextView
- * Author:
- *              youngHu
- * Finished：
- *             2018年05月31日
- ********************************************************/
 
 @SuppressLint("AppCompatCustomView")
 public class MarqueeTextView extends TextView {

@@ -17,21 +17,6 @@ import android.view.WindowManager;
 import com.example.marqueeview.R;
 
 
-/******************************************************
- * Copyrights @ 2018，Qianjinzhe Technology Co., Ltd.
- *               深圳市前进者科技有限公司
- * All rights reserved.
- *
- * Filename：
- *              MarqueeView.java
- * Description：
- *              横向滚动文字控件
- * Author:
- *              youngHu
- * Finished：
- *              2018年06月05日
- ********************************************************/
-
 public class MarqueeView extends SurfaceView implements SurfaceHolder.Callback {
     public Context mContext;
 
